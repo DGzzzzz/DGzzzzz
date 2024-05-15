@@ -3,15 +3,15 @@
 <p align="left"> 
   Olá, me chamo Douglas e sou Desenvolvedor Full Stack.
   Estou todos os dias aprimorando o que já aprendi e buscando novas ferramentas.
-  Cursando ADS no IFRS, progredindo no curso da EBAC e buscando uma oportunidade de aplicar esse conhecimento.
+  Cursando ADS no IFRS, progredindo no curso da EBAC e buscando uma oportunidades no mercado de trabalho.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <img align="center" alt="dg-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"> - <img align="center" alt="dg-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"> - <img align="center" alt="dg-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    <img align="center" alt="dg-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"> - <img align="center" alt="dg-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"> - <img align="center" alt="dg-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </p>
 
 <p align="left">
-  💼 Ferramentas: <img align="center" alt="dg-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> - <img align="center" alt="dg-Py" height="30" width="40"
+    <img align="center" alt="dg-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> - <img align="center" alt="dg-Py" height="30" width="40"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /> - <img align="center" alt="dg-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" /> ...+
 </p>
 
